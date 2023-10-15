@@ -1,7 +1,7 @@
 {
-  "name": "express",
+  "name": "express-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "server con node",
   "main": "app.js",
   "dependencies": {
     "express": "^4.18.2"
@@ -10,6 +10,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikki0011/express-server.git"
+  },
+  "author": "nair paez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikki0011/express-server/issues"
+  },
+  "homepage": "https://github.com/nikki0011/express-server#readme"
 }
